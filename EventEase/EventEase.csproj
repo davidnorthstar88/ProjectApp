@@ -2,9 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>EventEase</RootNamespace>
-    <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <!-- Optional but recommended -->
+    <RootNamespace>EventEase</RootNamespace>
+
+    <!-- Required for GitHub Pages if you use a subfolder like /ProjectApp/ -->
+    <StaticWebAssetBasePath>ProjectApp</StaticWebAssetBasePath>
   </PropertyGroup>
 
   <ItemGroup>
