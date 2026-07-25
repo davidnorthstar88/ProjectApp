@@ -1,16 +1,18 @@
-using EventEase;
-using EventEase.Services;
-using Microsoft.AspNetCore.Components.Web;
-using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+var builder = WebApplication.CreateBuilder(args);
 
-var builder = WebAssemblyHostBuilder.CreateDefault(args);
-builder.RootComponents.Add<App>("#app");
-builder.RootComponents.Add<HeadOutlet>("head::after");
+builder.Services.AddControllers(); // if you still need APIs
+builder.Services.AddRazorPages();
+builder.Services.AddServerSideBlazor(); // required for hosted WASM
 
-// Services
-builder.Services.AddScoped<EventService>();
-builder.Services.AddScoped<RegistrationService>();
-builder.Services.AddScoped<UserSessionService>();
-builder.Services.AddScoped<AttendanceService>();
+var app = builder.Build();
 
-await builder.Build().RunAsync();
+app.UseBlazorFrameworkFiles();   // <-- critical
+app.UseStaticFiles();
+
+app.UseRouting();
+
+app.MapRazorPages();
+app.MapControllers();
+app.MapFallbackToFile("index.html"); // <-- SPA routing
+
+app.Run();
