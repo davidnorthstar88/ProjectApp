@@ -1,0 +1,27 @@
+@using EventEase.Models
+@inject NavigationManager NavManager
+
+<div class="event-card">
+    <h3>@Event.Name</h3>
+    <p><strong>Date:</strong> @Event.Date.ToShortDateString()</p>
+    <p><strong>Location:</strong> @Event.Location</p>
+    <p><strong>Capacity:</strong> @Event.Capacity</p>
+    <p>@Event.Description</p>
+
+    <button @onclick="Edit">Edit</button>
+    <button @onclick="Register">Register</button>
+</div>
+
+@code {
+    [Parameter] public Event Event { get; set; } = new();
+
+    private void Edit()
+    {
+        NavManager.NavigateTo($"/event/{Event.Id}");
+    }
+
+    private void Register()
+    {
+        NavManager.NavigateTo($"/register/{Event.Id}");
+    }
+}
