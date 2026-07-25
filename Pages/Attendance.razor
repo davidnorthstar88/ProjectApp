@@ -1,0 +1,25 @@
+@page "/attendance"
+@inject AttendanceService AttendanceService
+
+<h2>Attendance Tracker</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Present</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var record in AttendanceService.GetAll())
+        {
+            <tr>
+                <td>@record.AttendeeName</td>
+                <td>@record.Present</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p><strong>Total Present:</strong> @AttendanceService.TotalPresent</p>
+<p><strong>Total Registered:</strong> @AttendanceService.TotalRegistered</p>
