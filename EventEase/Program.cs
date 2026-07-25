@@ -1,16 +1,9 @@
-var builder = WebApplication.CreateBuilder(args);
+using EventEase;
+using Microsoft.AspNetCore.Components.Web;
+using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 
-builder.Services.AddRazorComponents()
-    .AddInteractiveServer();
+var builder = WebAssemblyHostBuilder.CreateDefault(args);
+builder.RootComponents.Add<App>("#app");
+builder.RootComponents.Add<HeadOutlet>("head::after");
 
-var app = builder.Build();
-
-app.UseStaticFiles();
-app.UseRouting();
-
-app.MapRazorComponents<App>()
-    .AddInteractiveServerRenderMode();
-
-app.MapFallbackToPage("/_Host");
-
-app.Run();
+await builder.Build().RunAsync();

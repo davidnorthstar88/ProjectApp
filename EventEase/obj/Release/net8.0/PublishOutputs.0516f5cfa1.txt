@@ -1,0 +1,2 @@
+/workspaces/ProjectApp/EventEase/bin/Release/net8.0/publish/emcc-props.json
+/workspaces/ProjectApp/EventEase/bin/Release/net8.0/publish/web.config
