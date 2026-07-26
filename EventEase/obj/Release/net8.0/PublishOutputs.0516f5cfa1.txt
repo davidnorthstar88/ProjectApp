@@ -1,4 +1,0 @@
-/workspaces/ProjectApp/EventEase/bin/Release/net8.0/publish/docs/ProjectApp/_framework/blazor.boot.json
-/workspaces/ProjectApp/EventEase/bin/Release/net8.0/publish/docs/_framework/blazor.boot.json
-/workspaces/ProjectApp/EventEase/bin/Release/net8.0/publish/emcc-props.json
-/workspaces/ProjectApp/EventEase/bin/Release/net8.0/publish/web.config
