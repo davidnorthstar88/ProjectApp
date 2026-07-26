@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "EventEase",
   "resources": {
-    "hash": "sha256-n8+LznFSdralLlcZw3+fWJnQyQ2e/WHmkwFZqDLUHNs=",
+    "hash": "sha256-TKKuVUw7WWUkwcwuK8k4kMSIGBSG8zu893EbW3I4fBI=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-A16ka545FHaB+QXjyJ4exXh7XpBAAIFnX8YkC4xAng8="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "EventEase.wasm": "sha256-QoF5XtQzcMipnd2kUkLLQOoJhs1jW9tLZJBMHGgRZ18=",
+      "EventEase.wasm": "sha256-jUbE31KjoxIm0hv2eWmKMRwdyVrXjQg/XMsVLXSDvmc=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-W5OwpEZK2sBh3ndrVSpAMkA8YVa7yYC2aRd34J9ONuk=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-JMxAnzdFmCcJG50PFwdKXz+nTrfWFBa/mjoTwjXbjRI=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-zCdrWoZQjKKmLkHp+FtrlZOVEbo7n0jL8V4e/Lq81ok=",

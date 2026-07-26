@@ -1,0 +1,5 @@
+/workspaces/ProjectApp/EventEase/bin/Release/net10.0/publish/wwwroot/index.html
+/workspaces/ProjectApp/EventEase/bin/Release/net10.0/publish/docs/_framework/blazor.boot.json
+/workspaces/ProjectApp/EventEase/bin/Release/net10.0/publish/EventEase.runtimeconfig.json
+/workspaces/ProjectApp/EventEase/bin/Release/net10.0/publish/dotnet.js
+/workspaces/ProjectApp/EventEase/bin/Release/net10.0/publish/web.config

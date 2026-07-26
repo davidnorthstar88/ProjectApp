@@ -1031,6 +1031,8 @@
 /workspaces/ProjectApp/EventEase/obj/Release/net8.0/compressed/ftwl57ujzy-{0}-tptq2av103-tptq2av103.gz
 /workspaces/ProjectApp/EventEase/obj/Release/net8.0/compressed/tl8g3msk2l-{0}-lfu7j35m59-lfu7j35m59.gz
 /workspaces/ProjectApp/EventEase/obj/Release/net8.0/compressed/28a2n489et-{0}-oyz0vx2fzb-oyz0vx2fzb.gz
-/workspaces/ProjectApp/EventEase/obj/Release/net8.0/compressed/mcxrvh1dg4-{0}-2v2ps63kxj-2v2ps63kxj.gz
-/workspaces/ProjectApp/EventEase/obj/Release/net8.0/compressed/4er0mokrya-{0}-p1sb65inur-p1sb65inur.gz
-/workspaces/ProjectApp/EventEase/obj/Release/net8.0/compressed/czch4cn2pf-{0}-md74xxyili-md74xxyili.gz
+/workspaces/ProjectApp/EventEase/obj/Release/net8.0/compressed/mcxrvh1dg4-{0}-hn05g1s5r5-hn05g1s5r5.gz
+/workspaces/ProjectApp/EventEase/obj/Release/net8.0/compressed/4er0mokrya-{0}-f0mxa33j3s-f0mxa33j3s.gz
+/workspaces/ProjectApp/EventEase/obj/Release/net8.0/compressed/czch4cn2pf-{0}-b3c2l1mogf-b3c2l1mogf.gz
+/workspaces/ProjectApp/EventEase/bin/Release/net8.0/docs/ProjectApp/_framework/blazor.boot.json
+/workspaces/ProjectApp/EventEase/bin/Release/net8.0/docs/_framework/blazor.boot.json
