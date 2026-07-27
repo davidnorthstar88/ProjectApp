@@ -26,3 +26,7 @@
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/ProjectApp.pdb
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/ProjectApp.genruntimeconfig.cache
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/ref/ProjectApp.dll
+/workspaces/ProjectApp/ProjectApp/bin/Release/net8.0/dist/web.config
+/workspaces/ProjectApp/ProjectApp/bin/Release/net8.0/dist/ProjectApp.deps.json
+/workspaces/ProjectApp/ProjectApp/bin/Release/net8.0/dist/ProjectApp.runtimeconfig.json
+/workspaces/ProjectApp/ProjectApp/bin/Release/net8.0/dist/ProjectApp.staticwebassets.endpoints.json
