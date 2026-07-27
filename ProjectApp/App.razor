@@ -1,9 +1,10 @@
 <Router AppAssembly="@typeof(App).Assembly">
     <Found Context="routeData">
         <RouteView RouteData="@routeData" />
+        <FocusOnNavigate RouteData="@routeData" Selector="h1" />
     </Found>
 
     <NotFound>
-        <p class="text-danger">Sorry, the page could not be found.</p>
+        <p>Sorry, there's nothing at this address.</p>
     </NotFound>
 </Router>

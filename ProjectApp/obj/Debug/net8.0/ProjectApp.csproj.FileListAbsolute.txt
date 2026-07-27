@@ -30,3 +30,4 @@
 /workspaces/ProjectApp/ProjectApp/bin/Debug/net8.0/dist/ProjectApp.deps.json
 /workspaces/ProjectApp/ProjectApp/bin/Debug/net8.0/dist/ProjectApp.runtimeconfig.json
 /workspaces/ProjectApp/ProjectApp/bin/Debug/net8.0/dist/ProjectApp.staticwebassets.endpoints.json
+/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/ProjectApp.csproj.AssemblyReference.cache
