@@ -1,0 +1,5 @@
+/workspaces/ProjectApp/ProjectApp/dist/ProjectApp
+/workspaces/ProjectApp/ProjectApp/dist/ProjectApp.dll
+/workspaces/ProjectApp/ProjectApp/dist/ProjectApp.deps.json
+/workspaces/ProjectApp/ProjectApp/dist/ProjectApp.runtimeconfig.json
+/workspaces/ProjectApp/ProjectApp/dist/ProjectApp.pdb
