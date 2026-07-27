@@ -30,6 +30,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/workspaces/ProjectApp/ProjectApp/ProjectApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJvamVjdEFwcC9TaGFyZWQvTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/workspaces/ProjectApp/ProjectApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
