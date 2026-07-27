@@ -1,8 +1,0 @@
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/ProjectApp.csproj.AssemblyReference.cache
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/rpswa.dswa.cache.json
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/ProjectApp.AssemblyInfoInputs.cache
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/ProjectApp.AssemblyInfo.cs
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/ProjectApp.csproj.CoreCompileInputs.cache
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/ProjectApp.MvcApplicationPartsAssemblyInfo.cache
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/ProjectApp.sourcelink.json
