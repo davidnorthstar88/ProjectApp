@@ -1,0 +1,181 @@
+self.assetsManifest = {
+  "version": "NX+OvJDZ",
+  "assets": [
+    {
+      "hash": "sha256-UyRFEgkFrexJoZHc4HChwrUZvTvCWsNO6NBpCgTnS0Q=",
+      "url": "_framework/Microsoft.AspNetCore.Components.Web.wasm"
+    },
+    {
+      "hash": "sha256-seVtoNDfzQciXue3LvPvIMA9hgox3tYbXZ3mK/GMOpI=",
+      "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm"
+    },
+    {
+      "hash": "sha256-/JQyfJIJ7EgVPstooXgedqd9T5KkS674KTkIkx/eSXk=",
+      "url": "_framework/Microsoft.AspNetCore.Components.wasm"
+    },
+    {
+      "hash": "sha256-XR+WUfg8LtnrwdXFBnV+qO3ROyp6cYCfl1AZajIAheM=",
+      "url": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm"
+    },
+    {
+      "hash": "sha256-3UBRwvCkKtraRUarsIBDS05tA2rRm1leCB6EDfyVjeA=",
+      "url": "_framework/Microsoft.Extensions.Configuration.Json.wasm"
+    },
+    {
+      "hash": "sha256-od574rRtVVRJj+24jbl8j3GdQFpxlJOpSx+pEMw1Q18=",
+      "url": "_framework/Microsoft.Extensions.Configuration.wasm"
+    },
+    {
+      "hash": "sha256-3uh27liDMq7A3YpTWBl95uimJWq7ESRuyOOOFlc21Ck=",
+      "url": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
+    },
+    {
+      "hash": "sha256-mw/Sy1n9J6R0bUD0GI5MtB/zP+wyzOPiVsOTA/1C4NA=",
+      "url": "_framework/Microsoft.Extensions.DependencyInjection.wasm"
+    },
+    {
+      "hash": "sha256-7Zu9mf5A66dSbrtfWeqyG3c+7z4wLPxz6mRfvZWMXy8=",
+      "url": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm"
+    },
+    {
+      "hash": "sha256-lronxO5RVywLbFhme/ExIuzFePlP8EosZyZteUaMAwE=",
+      "url": "_framework/Microsoft.Extensions.Logging.wasm"
+    },
+    {
+      "hash": "sha256-jU67Fez8pypOqHShO/C6RHAZmEFgoq4RZGZtcWXOF08=",
+      "url": "_framework/Microsoft.Extensions.Options.wasm"
+    },
+    {
+      "hash": "sha256-Bi1hyBMWneH/ByWbqT/pNe0B7I/NQFklzD2g3Whdqlk=",
+      "url": "_framework/Microsoft.Extensions.Primitives.wasm"
+    },
+    {
+      "hash": "sha256-Px6z5DU/gBGylV4ob9sdcAVH4KKxpByP7WNTn+lZUro=",
+      "url": "_framework/Microsoft.JSInterop.WebAssembly.wasm"
+    },
+    {
+      "hash": "sha256-5YCTBeqPLBCgnNIAwn6sgKyBKS13Ooms1CiP1kN6el8=",
+      "url": "_framework/Microsoft.JSInterop.wasm"
+    },
+    {
+      "hash": "sha256-YsQmZEnEfG9SYghMk6ByNbLdE1+6vIqrK+R71eXbBcE=",
+      "url": "_framework/ProjectApp.wasm"
+    },
+    {
+      "hash": "sha256-3rx8Mm33pbGdg69wCw40aAw2CHllqBSBeN/eCCWpCg8=",
+      "url": "_framework/System.Collections.Concurrent.wasm"
+    },
+    {
+      "hash": "sha256-fB8vwaNmpqHp6qhetThMLMbZ+ymQ/rAE0U5d/hGeM6Y=",
+      "url": "_framework/System.Collections.wasm"
+    },
+    {
+      "hash": "sha256-F2qjYBXWxtewpm29FIk7CosIp5viFHegk54GkyQcEQ0=",
+      "url": "_framework/System.ComponentModel.wasm"
+    },
+    {
+      "hash": "sha256-inSFfD9Gfphn59Nxvqqkbw8BwCRwMswvyv+EifLNXJo=",
+      "url": "_framework/System.Console.wasm"
+    },
+    {
+      "hash": "sha256-9HEgspQ0wyu9kFeDf8eZqDmBuHhFYxX+JTRsS7Idk0c=",
+      "url": "_framework/System.Linq.wasm"
+    },
+    {
+      "hash": "sha256-TLAWSJHCPW3N+zTdWKuQP6jZrmK2z/i3RI8Ys+iwC/c=",
+      "url": "_framework/System.Memory.wasm"
+    },
+    {
+      "hash": "sha256-FSyNC4lKORZmoRTqOnpE0cQ4i8JmVuKAKeUS80nohUg=",
+      "url": "_framework/System.Net.Http.wasm"
+    },
+    {
+      "hash": "sha256-fANaX5TpIUw3yuSe5R2M6jkIR5nMIx1O6+i+uSEabZU=",
+      "url": "_framework/System.Net.Primitives.wasm"
+    },
+    {
+      "hash": "sha256-SSjetBDHTgRXh3Syy+T0YEM8ILOmy8AAvxF2kKh3kfM=",
+      "url": "_framework/System.Private.CoreLib.wasm"
+    },
+    {
+      "hash": "sha256-aZ3TM44X0tEuQsVthHhMMp5pBlWA8NV03QVHBe82mxQ=",
+      "url": "_framework/System.Private.Uri.wasm"
+    },
+    {
+      "hash": "sha256-tRe1zDX/SmzkUbyq9tjqCR2RAI6O1wXidfdYuXbl2xs=",
+      "url": "_framework/System.Runtime.InteropServices.JavaScript.wasm"
+    },
+    {
+      "hash": "sha256-BY4BuTwTl1bKk0ELvQ3vhz+GENipJjax9fPWpgVQoEQ=",
+      "url": "_framework/System.Runtime.wasm"
+    },
+    {
+      "hash": "sha256-3U3esquJ7Aeu10CYOpbI1yppzI+hqmeLhyESUijMlSU=",
+      "url": "_framework/System.Text.Encodings.Web.wasm"
+    },
+    {
+      "hash": "sha256-ZbNmNkx0V+8CKB0xg1XRpgJTlnEyAypL7svkXmzVWTY=",
+      "url": "_framework/System.Text.Json.wasm"
+    },
+    {
+      "hash": "sha256-vTjmo8W+mDOdlHRP0L2XPX6WOPBjjNP1eAT8UWYxM8I=",
+      "url": "_framework/System.Text.RegularExpressions.wasm"
+    },
+    {
+      "hash": "sha256-hpdFv/Z7e+G3IzRGfzbiKe5vhuc5JSJN372YdTbCkPI=",
+      "url": "_framework/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-rcIWTVNnYus6VWf2Z2U1g/JzlC07Ym02cFjHtI59Xsc=",
+      "url": "_framework/blazor.webassembly.js"
+    },
+    {
+      "hash": "sha256-bUzhz0OnegEsZmylsTKgDymH/pcF8PJt7ZuZE9B9wyE=",
+      "url": "_framework/dotnet.js"
+    },
+    {
+      "hash": "sha256-A16ka545FHaB+QXjyJ4exXh7XpBAAIFnX8YkC4xAng8=",
+      "url": "_framework/dotnet.native.js"
+    },
+    {
+      "hash": "sha256-s6EBTPv470xCV3v7vg6YPKgsWog8JDbzEWXbT6KucuQ=",
+      "url": "_framework/dotnet.native.wasm"
+    },
+    {
+      "hash": "sha256-sRdYoaUiZmrqOtPGSBpgxZxxSQsILEw5kzx7dL4zlfw=",
+      "url": "_framework/dotnet.runtime.js"
+    },
+    {
+      "hash": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
+      "url": "_framework/icudt_CJK.dat"
+    },
+    {
+      "hash": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
+      "url": "_framework/icudt_EFIGS.dat"
+    },
+    {
+      "hash": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs=",
+      "url": "_framework/icudt_no_CJK.dat"
+    },
+    {
+      "hash": "sha256-5dHt6tU/lQ9W0pa40QSLOaaW/C4xPBSFKYvz4HW0/AA=",
+      "url": "css/eventease.css"
+    },
+    {
+      "hash": "sha256-OZKRKwVX4XrhikSHwCzaErI+1evldULcKoU/VMsEp8Q=",
+      "url": "css/site.css"
+    },
+    {
+      "hash": "sha256-lgDQ9kA+ul4lGKvsv/ipBlroQpt1VJXQbOE8+ujAFOw=",
+      "url": "index.html"
+    },
+    {
+      "hash": "sha256-FgSu6F7IxiXJFLmXiy8AZQxzDsWyIjUHZWq9Vbf7gwQ=",
+      "url": "js/eventease.js"
+    },
+    {
+      "hash": "sha256-JpJabWjSxtC9IqE4BAm3FOL3QetxWnMGwCyu5P3rkm0=",
+      "url": "js/site.js"
+    }
+  ]
+};
