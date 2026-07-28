@@ -1,0 +1,81 @@
+@page "/"
+@inject EventService EventService
+
+<h1 class="page-title">Upcoming Events</h1>
+
+<div class="search-section">
+    <input class="search-box"
+           placeholder="Search events..."
+           @bind="searchTerm" />
+
+    <select class="category-filter" @bind="selectedCategory">
+        <option value="">All Categories</option>
+        @foreach (var cat in categories)
+        {
+            <option value="@cat">@cat</option>
+        }
+    </select>
+</div>
+
+@if (filteredEvents == null)
+{
+    <p>Loading events...</p>
+}
+else if (!filteredEvents.Any())
+{
+    <p>No events found.</p>
+}
+else
+{
+    <div class="event-grid">
+        @foreach (var evt in filteredEvents)
+        {
+            <EventCard Event="evt" />
+        }
+    </div>
+}
+
+@code {
+    private List<EventModel> events = new();
+    private List<EventModel> filteredEvents = new();
+    private List<string> categories = new();
+
+    private string searchTerm = "";
+    private string selectedCategory = "";
+
+    protected override async Task OnInitializedAsync()
+    {
+        events = await EventService.GetEventsAsync();
+
+        categories = events
+            .Select(e => e.Category)
+            .Distinct()
+            .OrderBy(c => c)
+            .ToList();
+
+        ApplyFilters();
+    }
+
+    private void ApplyFilters()
+    {
+        filteredEvents = events
+            .Where(e =>
+                (string.IsNullOrWhiteSpace(searchTerm) ||
+                 e.Title.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) &&
+                (string.IsNullOrWhiteSpace(selectedCategory) ||
+                 e.Category == selectedCategory))
+            .ToList();
+    }
+
+    private void OnSearchChanged(ChangeEventArgs e)
+    {
+        searchTerm = e.Value?.ToString() ?? "";
+        ApplyFilters();
+    }
+
+    private void OnCategoryChanged(ChangeEventArgs e)
+    {
+        selectedCategory = e.Value?.ToString() ?? "";
+        ApplyFilters();
+    }
+}
