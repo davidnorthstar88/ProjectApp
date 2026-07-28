@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using ProjectApp;
-using EventEase.Services; // <-- Make sure this is here
+using ProjectApp.Services;   // <-- FIXED NAMESPACE
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 
