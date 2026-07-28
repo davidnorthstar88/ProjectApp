@@ -1067,6 +1067,6 @@
 /workspaces/ProjectApp/ProjectApp/bin/Release/net8.0/dist/publish/ProjectApp.staticwebassets.endpoints.json
 /workspaces/ProjectApp/ProjectApp/bin/Release/net8.0/dist/publish/wwwroot/_framework/blazor.boot.json
 /workspaces/ProjectApp/ProjectApp/bin/Release/net8.0/dist/wwwroot/_framework/blazor.boot.json
-/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/3w3eyjx2sd-{0}-fb8blml6f6-fb8blml6f6.gz
-/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/hz2gid76ey-{0}-9ofjtzc7cl-9ofjtzc7cl.gz
-/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/s7dk79sy6l-{0}-vgh9q2c046-vgh9q2c046.gz
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/3w3eyjx2sd-{0}-fq2dlc7vov-fq2dlc7vov.gz
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/hz2gid76ey-{0}-w5azhoyswk-w5azhoyswk.gz
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/s7dk79sy6l-{0}-7y1sufuts2-7y1sufuts2.gz
