@@ -1736,11 +1736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ProjectApp/EventEase/ProjectApp.csproj",
+      "projectUniqueName": "/workspaces/ProjectApp/ProjectApp/ProjectApp.csproj",
       "projectName": "ProjectApp",
-      "projectPath": "/workspaces/ProjectApp/EventEase/ProjectApp.csproj",
+      "projectPath": "/workspaces/ProjectApp/ProjectApp/ProjectApp.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ProjectApp/EventEase/obj/",
+      "outputPath": "/workspaces/ProjectApp/ProjectApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
