@@ -1051,6 +1051,6 @@
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/scopedcss/projectbundle/ProjectApp.bundle.scp.css
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/3w3eyjx2sd-{0}-dqfpatz8hy-dqfpatz8hy.gz
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/hz2gid76ey-{0}-23vfjphwky-23vfjphwky.gz
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/s7dk79sy6l-{0}-f19skl8el6-f19skl8el6.gz
+/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/3w3eyjx2sd-{0}-9hop9xcfoe-9hop9xcfoe.gz
+/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/hz2gid76ey-{0}-j7u9sl26jj-j7u9sl26jj.gz
+/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/s7dk79sy6l-{0}-0joggzhphi-0joggzhphi.gz
