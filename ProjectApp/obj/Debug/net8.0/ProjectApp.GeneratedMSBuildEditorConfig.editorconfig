@@ -15,77 +15,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = ProjectApp
 build_property.RootNamespace = ProjectApp
-build_property.ProjectDir = /workspaces/ProjectApp/EventEase/
+build_property.ProjectDir = /workspaces/ProjectApp/ProjectApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /workspaces/ProjectApp/EventEase
+build_property.MSBuildProjectDirectory = /workspaces/ProjectApp/ProjectApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[/workspaces/ProjectApp/EventEase/App.razor]
+[/workspaces/ProjectApp/ProjectApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ProjectApp/EventEase/Components/Events/EventCard.razor]
+[/workspaces/ProjectApp/ProjectApp/Components/Events/EventCard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9FdmVudHMvRXZlbnRDYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ProjectApp/EventEase/Components/Events/EventEditCard.razor]
+[/workspaces/ProjectApp/ProjectApp/Components/Events/EventEditCard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9FdmVudHMvRXZlbnRFZGl0Q2FyZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ProjectApp/EventEase/Pages/Attendance.razor]
+[/workspaces/ProjectApp/ProjectApp/Pages/Attendance.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXR0ZW5kYW5jZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ProjectApp/EventEase/Pages/CreateEvent.razor]
+[/workspaces/ProjectApp/ProjectApp/Pages/CreateEvent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXRlRXZlbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ProjectApp/EventEase/Pages/EventDetails.razor]
+[/workspaces/ProjectApp/ProjectApp/Pages/EventDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnREZXRhaWxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ProjectApp/EventEase/Pages/Events.razor]
+[/workspaces/ProjectApp/ProjectApp/Pages/Events.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ProjectApp/EventEase/Pages/Register.razor]
+[/workspaces/ProjectApp/ProjectApp/Pages/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ProjectApp/EventEase/Pages/RegistrationConfirmation.razor]
+[/workspaces/ProjectApp/ProjectApp/Pages/RegistrationConfirmation.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVnaXN0cmF0aW9uQ29uZmlybWF0aW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ProjectApp/EventEase/Pages/Session.razor]
+[/workspaces/ProjectApp/ProjectApp/Pages/Session.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2Vzc2lvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ProjectApp/EventEase/Pages/Shared/Error.razor]
+[/workspaces/ProjectApp/ProjectApp/Pages/Shared/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0Vycm9yLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ProjectApp/EventEase/Pages/Shared/SurveyPrompt.razor]
+[/workspaces/ProjectApp/ProjectApp/Pages/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ProjectApp/EventEase/_Imports.razor]
+[/workspaces/ProjectApp/ProjectApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ProjectApp/EventEase/Pages/Home.razor]
+[/workspaces/ProjectApp/ProjectApp/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-n63uva2oq8
 
-[/workspaces/ProjectApp/EventEase/Pages/Shared/MainLayout.razor]
+[/workspaces/ProjectApp/ProjectApp/Pages/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-nikolcbdui
 
-[/workspaces/ProjectApp/EventEase/Pages/Shared/NavMenu.razor]
+[/workspaces/ProjectApp/ProjectApp/Pages/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-428itx68xx
