@@ -30,6 +30,54 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/workspaces/ProjectApp/EventEase/Pages/Attendance.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXR0ZW5kYW5jZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ProjectApp/EventEase/Pages/CreateEvent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXRlRXZlbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ProjectApp/EventEase/Pages/EventDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnREZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ProjectApp/EventEase/Pages/Events.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ProjectApp/EventEase/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ProjectApp/EventEase/Pages/RegistrationConfirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVnaXN0cmF0aW9uQ29uZmlybWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ProjectApp/EventEase/Pages/Session.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2Vzc2lvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ProjectApp/EventEase/Pages/Shared/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0Vycm9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ProjectApp/EventEase/Pages/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/workspaces/ProjectApp/EventEase/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ProjectApp/EventEase/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-n63uva2oq8
+
+[/workspaces/ProjectApp/EventEase/Pages/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-nikolcbdui
+
+[/workspaces/ProjectApp/EventEase/Pages/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-428itx68xx
