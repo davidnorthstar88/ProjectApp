@@ -1047,6 +1047,6 @@
 /workspaces/ProjectApp/ProjectApp/bin/Release/net8.0/docs/emcc-props.json
 /workspaces/ProjectApp/ProjectApp/bin/Release/net8.0/docs/ProjectApp.staticwebassets.endpoints.json
 /workspaces/ProjectApp/ProjectApp/bin/Release/net8.0/docs/wwwroot/_framework/blazor.boot.json
-/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/3w3eyjx2sd-{0}-m2qwn12i6v-m2qwn12i6v.gz
-/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/hz2gid76ey-{0}-6a2hbttd41-6a2hbttd41.gz
-/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/s7dk79sy6l-{0}-87pmvwu3ft-87pmvwu3ft.gz
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/3w3eyjx2sd-{0}-ybrk4hstu5-ybrk4hstu5.gz
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/hz2gid76ey-{0}-zu1pzez0xf-zu1pzez0xf.gz
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/s7dk79sy6l-{0}-k91vkd9hqv-k91vkd9hqv.gz
