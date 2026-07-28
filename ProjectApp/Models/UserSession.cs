@@ -1,4 +1,4 @@
-namespace EventEase.Models;
+namespace ProjectApp.Models;
 
 public class UserSession
 {
