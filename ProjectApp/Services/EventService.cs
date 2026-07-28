@@ -31,6 +31,12 @@ public class EventService
     public Event? GetEventById(int id) =>
         _events.FirstOrDefault(e => e.Id == id);
 
+    public void AddEvent(Event newEvent)
+    {
+        newEvent.Id = _events.Max(e => e.Id) + 1;
+        _events.Add(newEvent);
+    }
+
     public void UpdateEvent(Event updated)
     {
         var existing = GetEventById(updated.Id);
@@ -41,5 +47,14 @@ public class EventService
         existing.Location = updated.Location;
         existing.Capacity = updated.Capacity;
         existing.Description = updated.Description;
+    }
+
+    public void DeleteEvent(int id)
+    {
+        var existing = GetEventById(id);
+        if (existing is not null)
+        {
+            _events.Remove(existing);
+        }
     }
 }
