@@ -1,11 +1,15 @@
-<nav>
-    <h3 class="menu-title">EventEase Menu</h3>
+<NavLink href="/" Match="NavLinkMatch.All">
+    <span class="oi oi-home"></span> Home
+</NavLink>
 
-    <ul class="nav-list">
-        <li><a href="/">Home</a></li>
-        <li><a href="/events">Events</a></li>
-        <li><a href="/create-event">Create Event</a></li>
-        <li><a href="/session">Session</a></li>
-        <li><a href="/attendance/1">Attendance</a></li>
-    </ul>
-</nav>
+<NavLink href="/events">
+    Events
+</NavLink>
+
+<NavLink href="/registrations">
+    My Registrations
+</NavLink>
+
+<NavLink href="/attendance">
+    Attendance Tracker
+</NavLink>
