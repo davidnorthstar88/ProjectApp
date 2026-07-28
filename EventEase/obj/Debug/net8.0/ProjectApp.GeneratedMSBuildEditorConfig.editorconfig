@@ -15,25 +15,21 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = ProjectApp
 build_property.RootNamespace = ProjectApp
-build_property.ProjectDir = /workspaces/ProjectApp/ProjectApp/
+build_property.ProjectDir = /workspaces/ProjectApp/EventEase/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /workspaces/ProjectApp/ProjectApp
+build_property.MSBuildProjectDirectory = /workspaces/ProjectApp/EventEase
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[/workspaces/ProjectApp/ProjectApp/App.razor]
+[/workspaces/ProjectApp/EventEase/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ProjectApp/ProjectApp/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/workspaces/ProjectApp/ProjectApp/_Imports.razor]
+[/workspaces/ProjectApp/EventEase/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

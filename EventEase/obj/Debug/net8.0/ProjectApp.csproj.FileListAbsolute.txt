@@ -1047,3 +1047,14 @@
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/refint/ProjectApp.dll
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/ProjectApp.pdb
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/ref/ProjectApp.dll
+/workspaces/ProjectApp/EventEase/obj/Debug/net8.0/ProjectApp.csproj.AssemblyReference.cache
+/workspaces/ProjectApp/EventEase/obj/Debug/net8.0/rpswa.dswa.cache.json
+/workspaces/ProjectApp/EventEase/obj/Debug/net8.0/ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ProjectApp/EventEase/obj/Debug/net8.0/ProjectApp.AssemblyInfoInputs.cache
+/workspaces/ProjectApp/EventEase/obj/Debug/net8.0/ProjectApp.AssemblyInfo.cs
+/workspaces/ProjectApp/EventEase/obj/Debug/net8.0/ProjectApp.csproj.CoreCompileInputs.cache
+/workspaces/ProjectApp/EventEase/obj/Debug/net8.0/ProjectApp.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/ProjectApp/EventEase/obj/Debug/net8.0/ProjectApp.sourcelink.json
+/workspaces/ProjectApp/EventEase/obj/Debug/net8.0/ProjectApp.dll
+/workspaces/ProjectApp/EventEase/obj/Debug/net8.0/refint/ProjectApp.dll
+/workspaces/ProjectApp/EventEase/obj/Debug/net8.0/ProjectApp.pdb

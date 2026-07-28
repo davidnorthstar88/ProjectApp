@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VKI2CodXMqs=",
+  "dgSpecHash": "sJczkSYS+QA=",
   "success": true,
-  "projectFilePath": "/workspaces/ProjectApp/ProjectApp/ProjectApp.csproj",
+  "projectFilePath": "/workspaces/ProjectApp/EventEase/ProjectApp.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/microsoft.aspnetcore.authorization/8.0.0/microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.aspnetcore.components/8.0.0/microsoft.aspnetcore.components.8.0.0.nupkg.sha512",
