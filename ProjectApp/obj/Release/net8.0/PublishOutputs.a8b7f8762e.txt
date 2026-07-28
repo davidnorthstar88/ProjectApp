@@ -1,0 +1,13 @@
+/workspaces/ProjectApp/ProjectApp/tempdocs/dist/web.config
+/workspaces/ProjectApp/ProjectApp/tempdocs/docs/web.config
+/workspaces/ProjectApp/ProjectApp/tempdocs/dist/ProjectApp.deps.json
+/workspaces/ProjectApp/ProjectApp/tempdocs/dist/ProjectApp.runtimeconfig.json
+/workspaces/ProjectApp/ProjectApp/tempdocs/dist/ProjectApp.staticwebassets.endpoints.json
+/workspaces/ProjectApp/ProjectApp/tempdocs/docs/dist/ProjectApp.deps.json
+/workspaces/ProjectApp/ProjectApp/tempdocs/docs/dist/ProjectApp.runtimeconfig.json
+/workspaces/ProjectApp/ProjectApp/tempdocs/docs/dist/ProjectApp.staticwebassets.endpoints.json
+/workspaces/ProjectApp/ProjectApp/tempdocs/docs/emcc-props.json
+/workspaces/ProjectApp/ProjectApp/tempdocs/docs/ProjectApp.staticwebassets.endpoints.json
+/workspaces/ProjectApp/ProjectApp/tempdocs/docs/wwwroot/_framework/blazor.boot.json
+/workspaces/ProjectApp/ProjectApp/tempdocs/emcc-props.json
+/workspaces/ProjectApp/ProjectApp/tempdocs/web.config
