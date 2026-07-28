@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace EventEase.Models;
+namespace ProjectApp.Models;
 
 public class Registration
 {

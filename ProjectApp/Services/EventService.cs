@@ -1,4 +1,4 @@
-using EventEase.Models;
+using ProjectApp.Models;
 
 namespace EventEase.Services;
 
