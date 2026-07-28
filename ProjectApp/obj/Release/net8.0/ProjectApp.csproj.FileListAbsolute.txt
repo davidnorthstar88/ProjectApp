@@ -1040,6 +1040,6 @@
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/scopedcss/projectbundle/ProjectApp.bundle.scp.css
-/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/3w3eyjx2sd-{0}-h5pu0mw3fm-h5pu0mw3fm.gz
-/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/hz2gid76ey-{0}-u0yznxjonx-u0yznxjonx.gz
-/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/s7dk79sy6l-{0}-68zg84obqc-68zg84obqc.gz
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/3w3eyjx2sd-{0}-vrvtk9ry98-vrvtk9ry98.gz
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/hz2gid76ey-{0}-r1pa8m13xh-r1pa8m13xh.gz
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/s7dk79sy6l-{0}-5b5i2zecuf-5b5i2zecuf.gz
