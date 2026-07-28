@@ -1,0 +1,50 @@
+@page "/create-event"
+@inject EventService EventService
+@inject NavigationManager NavManager
+
+<h2>Create New Event</h2>
+
+<EditForm Model="@NewEvent" OnValidSubmit="Save">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label>Name</label>
+        <InputText @bind-Value="NewEvent.Name" />
+    </div>
+
+    <div>
+        <label>Date</label>
+        <InputDate @bind-Value="NewEvent.Date" />
+    </div>
+
+    <div>
+        <label>Location</label>
+        <InputText @bind-Value="NewEvent.Location" />
+    </div>
+
+    <div>
+        <label>Capacity</label>
+        <InputNumber @bind-Value="NewEvent.Capacity" />
+    </div>
+
+    <div>
+        <label>Description</label>
+        <InputTextArea @bind-Value="NewEvent.Description" />
+    </div>
+
+    <button type="submit">Create Event</button>
+</EditForm>
+
+@code {
+    private Event NewEvent = new();
+
+    private void Save()
+    {
+        var events = EventService.GetEvents().ToList();
+        NewEvent.Id = events.Max(e => e.Id) + 1;
+        events.Add(NewEvent);
+
+        NavManager.NavigateTo("/events");
+    }
+}

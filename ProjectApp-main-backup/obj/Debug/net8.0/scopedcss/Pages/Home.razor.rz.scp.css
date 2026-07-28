@@ -1,0 +1,28 @@
+.page-title[b-n63uva2oq8] {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.search-section[b-n63uva2oq8] {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.search-box[b-n63uva2oq8] {
+    flex: 1;
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+
+.category-filter[b-n63uva2oq8] {
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+
+.event-grid[b-n63uva2oq8] {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+}
