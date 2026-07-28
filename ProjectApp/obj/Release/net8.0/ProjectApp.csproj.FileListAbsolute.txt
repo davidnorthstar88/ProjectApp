@@ -1026,9 +1026,6 @@
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/nksp8rdujy-{0}-tptq2av103-tptq2av103.gz
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/66hp4l12kw-{0}-lfu7j35m59-lfu7j35m59.gz
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/30wedcvjvw-{0}-oyz0vx2fzb-oyz0vx2fzb.gz
-/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/3w3eyjx2sd-{0}-mvnu4njmi7-mvnu4njmi7.gz
-/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/hz2gid76ey-{0}-c2pm7nsr7h-c2pm7nsr7h.gz
-/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/s7dk79sy6l-{0}-s4om2m0mdx-s4om2m0mdx.gz
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/staticwebassets.build.json
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/staticwebassets.build.json.cache
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/staticwebassets.development.json
@@ -1039,3 +1036,10 @@
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/refint/ProjectApp.dll
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/ProjectApp.pdb
 /workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/ref/ProjectApp.dll
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/scopedcss/Pages/Home.razor.rz.scp.css
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/scopedcss/projectbundle/ProjectApp.bundle.scp.css
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/3w3eyjx2sd-{0}-5lvx4yy5t5-5lvx4yy5t5.gz
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/hz2gid76ey-{0}-kr2tpicm3t-kr2tpicm3t.gz
+/workspaces/ProjectApp/ProjectApp/obj/Release/net8.0/compressed/s7dk79sy6l-{0}-vc8qsrlybr-vc8qsrlybr.gz
