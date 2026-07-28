@@ -1,6 +1,6 @@
 using ProjectApp.Models;
 
-namespace EventEase.Services;
+namespace ProjectApp.Services;
 
 public class UserSessionService
 {
