@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ProjectApp",
   "resources": {
-    "hash": "sha256-wJYue9wR3BUWxYTNgPFZPSaprPD6n4UbClwvrV0k7OU=",
+    "hash": "sha256-9TjmMdq+BoU+65kpmwdGfOY7M1AQp+0nyLU49cAgiRY=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-A16ka545FHaB+QXjyJ4exXh7XpBAAIFnX8YkC4xAng8="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-ovgR6YJeXMcsAhvGJVdyjhD5pU34EEAc0BGQYTUAyNk=",
       "netstandard.wasm": "sha256-90+pPOP/3NxK0buBFJlcvDw0r6Nk/i3+oM9dt2x+LPM=",
       "System.Private.CoreLib.wasm": "sha256-IXKG8p3ppN4zPjJOxht5wSXCcbFNPH6InVm7fsThBPI=",
-      "ProjectApp.wasm": "sha256-r0V0lUIEG+vCCrCYyjRn2aJOVSOUzFMYYTS7MoROWGU="
+      "ProjectApp.wasm": "sha256-5Skx08MvxIIZzoiMtNWocwFhFOwjKE5J4f5yM9din8s="
     },
     "pdb": {
-      "ProjectApp.pdb": "sha256-eZAiouT3H2HQiVbKkQq856YHlkb/MVZ5qxj5CTXj254="
+      "ProjectApp.pdb": "sha256-HlIgGW5cDyw68sXvSTwLKAPQv7dPrDI6YnQulXqS2oc="
     }
   },
   "cacheBootResources": true,

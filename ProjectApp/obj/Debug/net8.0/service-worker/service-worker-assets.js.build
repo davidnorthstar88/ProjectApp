@@ -1,6 +1,10 @@
 self.assetsManifest = {
-  "version": "bqPDIxTm",
+  "version": "D8jAe+Pw",
   "assets": [
+    {
+      "hash": "sha256-xLxwecSyXc1y6vlCE4aQqlTv4K9twJheAqO5ioGYD5g=",
+      "url": "ProjectApp.styles.css"
+    },
     {
       "hash": "sha256-j29bzsbGr0GXbz3saSOBqDtWxNOK08Or3b1HgnZ+pvA=",
       "url": "_framework/Microsoft.AspNetCore.Authorization.wasm"
@@ -110,11 +114,11 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.Win32.Registry.wasm"
     },
     {
-      "hash": "sha256-eZAiouT3H2HQiVbKkQq856YHlkb/MVZ5qxj5CTXj254=",
+      "hash": "sha256-HlIgGW5cDyw68sXvSTwLKAPQv7dPrDI6YnQulXqS2oc=",
       "url": "_framework/ProjectApp.pdb"
     },
     {
-      "hash": "sha256-r0V0lUIEG+vCCrCYyjRn2aJOVSOUzFMYYTS7MoROWGU=",
+      "hash": "sha256-5Skx08MvxIIZzoiMtNWocwFhFOwjKE5J4f5yM9din8s=",
       "url": "_framework/ProjectApp.wasm"
     },
     {
@@ -766,7 +770,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.wasm"
     },
     {
-      "hash": "sha256-SQRC1AwlraJgRzQrFpoQLujSnmCm1lSOVBEd4oR51QQ=",
+      "hash": "sha256-PdsO+dW4I4aABsFH52pSiFvEF+ZUf6I6u/3lI80/fbE=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -830,7 +834,7 @@ self.assetsManifest = {
       "url": "css/site.css"
     },
     {
-      "hash": "sha256-lgDQ9kA+ul4lGKvsv/ipBlroQpt1VJXQbOE8+ujAFOw=",
+      "hash": "sha256-gQRKIG8s+bEnTSejmKCkI2Qw/IVxKgQN3Fp1p81bAa4=",
       "url": "index.html"
     },
     {
