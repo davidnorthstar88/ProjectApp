@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ProjectApp",
   "resources": {
-    "hash": "sha256-gIpZsAayhm+q88TgldAO1UZr6OBoQR+qYw4QFUzyTAY=",
+    "hash": "sha256-+NrNGuwxLD62z1ZXgggXouTYMPZBPOy85uHonahJO/8=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-A16ka545FHaB+QXjyJ4exXh7XpBAAIFnX8YkC4xAng8="
     },
@@ -57,7 +57,7 @@
       "System.Text.RegularExpressions.wasm": "sha256-NCEE+HvGu9wvbwRWVbw39Kv/N87ljqfev5xcRmcQ6NQ=",
       "System.wasm": "sha256-25KTxVbx+rD8S9iyUye7jmbj1e4TZ5Ca+elup4oegJA=",
       "System.Private.CoreLib.wasm": "sha256-g9Qgq4CMZxVl3xJfbA4Cbd/30jhb0cHjjznx4EHhJgk=",
-      "ProjectApp.wasm": "sha256-2Qk+cBZIpIWRXYgCLdCBcP4CtnP7ChqX3gJjVxUx1A4="
+      "ProjectApp.wasm": "sha256-5THW1l18Pu70JeOfU/Pj2cCGv30kkCBOY8W3hgRSjnA="
     }
   },
   "cacheBootResources": true,
