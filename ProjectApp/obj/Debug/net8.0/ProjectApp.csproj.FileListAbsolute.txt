@@ -1098,6 +1098,6 @@
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/refint/ProjectApp.dll
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/ProjectApp.pdb
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/ref/ProjectApp.dll
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/3w3eyjx2sd-{0}-ld1ftiryve-ld1ftiryve.gz
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/hz2gid76ey-{0}-pqfjetshct-pqfjetshct.gz
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/s7dk79sy6l-{0}-sh0767z58g-sh0767z58g.gz
+/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/3w3eyjx2sd-{0}-sp1rckgyvf-sp1rckgyvf.gz
+/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/hz2gid76ey-{0}-cq63xncvmf-cq63xncvmf.gz
+/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/s7dk79sy6l-{0}-vxh8rhimrg-vxh8rhimrg.gz

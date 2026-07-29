@@ -1,0 +1,24 @@
+.menu-title[b-4j8n350v06] {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    color: #ecf0f1;
+}
+
+.nav-list[b-4j8n350v06] {
+    list-style: none;
+    padding: 0;
+}
+
+.nav-list li[b-4j8n350v06] {
+    margin-bottom: 0.75rem;
+}
+
+.nav-list a[b-4j8n350v06] {
+    color: #ecf0f1;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.nav-list a:hover[b-4j8n350v06] {
+    text-decoration: underline;
+}
