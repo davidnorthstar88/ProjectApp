@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VKI2CodXMqs=",
+  "dgSpecHash": "lLnV+dI09YM=",
   "success": true,
   "projectFilePath": "/workspaces/ProjectApp/ProjectApp/ProjectApp.csproj",
   "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/blazorwasmbrotliloader.build/1.0.3/blazorwasmbrotliloader.build.1.0.3.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.aspnetcore.authorization/8.0.0/microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.aspnetcore.components/8.0.0/microsoft.aspnetcore.components.8.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.aspnetcore.components.analyzers/8.0.0/microsoft.aspnetcore.components.analyzers.8.0.0.nupkg.sha512",
@@ -30,12 +31,13 @@
     "/home/codespace/.nuget/packages/microsoft.jsinterop.webassembly/8.0.0/microsoft.jsinterop.webassembly.8.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.net.illink.tasks/8.0.25/microsoft.net.illink.tasks.8.0.25.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.net.sdk.webassembly.pack/10.0.4/microsoft.net.sdk.webassembly.pack.10.0.4.nupkg.sha512",
+    "/home/codespace/.nuget/packages/publishspaforgithubpages.build/3.0.3/publishspaforgithubpages.build.3.0.3.nupkg.sha512",
     "/home/codespace/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.25/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.25.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.25/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.25.nupkg.sha512"
   ],
   "logs": []
 }
