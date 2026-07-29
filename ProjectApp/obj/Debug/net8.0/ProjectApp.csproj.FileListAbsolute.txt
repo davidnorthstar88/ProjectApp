@@ -1088,9 +1088,6 @@
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/nksp8rdujy-{0}-tptq2av103-tptq2av103.gz
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/66hp4l12kw-{0}-lfu7j35m59-lfu7j35m59.gz
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/30wedcvjvw-{0}-oyz0vx2fzb-oyz0vx2fzb.gz
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/3w3eyjx2sd-{0}-uwftm91ww1-uwftm91ww1.gz
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/hz2gid76ey-{0}-ay5q0vusqy-ay5q0vusqy.gz
-/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/s7dk79sy6l-{0}-hx6fogmaq2-hx6fogmaq2.gz
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/staticwebassets.build.json
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/staticwebassets.build.json.cache
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/staticwebassets.development.json
@@ -1101,3 +1098,6 @@
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/refint/ProjectApp.dll
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/ProjectApp.pdb
 /workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/ref/ProjectApp.dll
+/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/3w3eyjx2sd-{0}-ld1ftiryve-ld1ftiryve.gz
+/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/hz2gid76ey-{0}-pqfjetshct-pqfjetshct.gz
+/workspaces/ProjectApp/ProjectApp/obj/Debug/net8.0/compressed/s7dk79sy6l-{0}-sh0767z58g-sh0767z58g.gz
