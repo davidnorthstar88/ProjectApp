@@ -1,6 +1,0 @@
-/workspaces/ProjectApp/ProjectApp/docs/dist/web.config
-/workspaces/ProjectApp/ProjectApp/docs/dist/ProjectApp.deps.json
-/workspaces/ProjectApp/ProjectApp/docs/dist/ProjectApp.runtimeconfig.json
-/workspaces/ProjectApp/ProjectApp/docs/dist/ProjectApp.staticwebassets.endpoints.json
-/workspaces/ProjectApp/ProjectApp/docs/emcc-props.json
-/workspaces/ProjectApp/ProjectApp/docs/web.config

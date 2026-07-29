@@ -1,9 +1,0 @@
-@page "/events"
-@inject EventService EventService
-
-<h2>Upcoming Events</h2>
-
-@foreach (var ev in EventService.GetEvents())
-{
-    <EventCard Event="ev" />
-}
